@@ -25,3 +25,5 @@ int main(){
   std::cout<<(correct?"Statement correct":"Statement incorrect")<<std::endl;
   return 0;
 }
+
+//kirilov kirill DKIP-281 - внес изменения
